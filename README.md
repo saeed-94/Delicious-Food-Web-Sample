@@ -1,4 +1,3 @@
-# Business Website Sample Design Project
 
 # Delicious Food Website Sample Design Project
 
@@ -8,16 +7,17 @@ In this project a website template is designed in the field of delicious food.
 
 Modern responsive delicious food website design made with **HTML5** and **CSS3**.
 
-**_warning_** All names, information and assets used are fake and do not represent a real company. warning
+**_warning_** All names, information and assets used are fake and do not represent a real company.
 
 Live demo can be found under this link.
+![image](https://github.com/saeed-94/Delicious-Food-Web-Sample/assets/62347559/29c9e570-7981-41f5-a8cf-776db67d036d)
 
 ## Layout
 
 - Header
 - Main
   - Story
-    - Services
+  - Services
   - Ordering
   - Gallery
 - Footer
